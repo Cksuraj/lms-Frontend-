@@ -1,3 +1,8 @@
+/* Tailwind CSS Utilite File */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 body{
   margin: auto;

@@ -4,7 +4,7 @@ function App() {
 
   return (
   <>
-   <h1> Hello LMS Project</h1>
+   <h1 className=''> Hello LMS Project</h1>
   </>
   )
 }
