@@ -25,3 +25,24 @@
  npm run dev
 
 ---
+
+## Setting up Tailwind Css 
+-- 
+Installation Guide for Tailwind Css ![https://tailwindcss.com/docs/installation]
+--
+
+1. Install Tailwind Css inside project dir
+--
+npm install -D tailwindcss
+--
+
+2. Config The Tailwind Css
+-- 
+npx tailwindcss init
+-- 
+
+## Installing Dependencies and Plugin
+
+--
+--npm i react-router-dom react-redux @reduxjs/toolkit axio react-hot-toast chart.js react-chartjs-2 @tailwindcss/line-clamp daisyui react-icons
+--
